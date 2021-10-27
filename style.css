@@ -1,0 +1,69 @@
+h1 {
+color: button-purple;
+font-size: 20px;
+font-weight: 900;
+
+}
+
+body{
+background-color: #DDD4A6;
+;
+font-family: 'Roboto', sans-serif;
+}
+
+h2{
+text-align: center;
+color: #DDD4A6;
+font-size: 30px;
+font-family: "verdana", serif;
+}
+
+a {
+font-family: 'Roboto', sans-serif;
+text-decoration: none;
+color:orange;
+font-weight: 600;
+font-size: 16px;
+}
+
+p {
+color:black;
+
+}
+div {
+border: 3px solid light-grey;
+border-radius: 20px;
+box-shadow: 3px 3px 10px rgba (0,0,0,0,2);
+padding: 30px;
+margin: auto;
+background-color:orange;
+
+ }
+button-purple{
+background-color: #EDF6F9
+color: black;
+padding: 12px;
+border-radius: 5px;
+font-weight:bolder;
+font-size: 14px;
+}
+button-purple:hover{
+background-color: darkgrey;
+}
+ .img-circle{
+  border-radius: 90%;
+  text-align: center;
+ }
+ .container{
+  width: 700px;
+  margin: 40px auto;
+  text-align: center;
+ }
+
+Li
+{
+list-style-type: none;
+}
+a{
+color: #012A4A
+}
